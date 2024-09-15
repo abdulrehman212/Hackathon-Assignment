@@ -61,7 +61,7 @@ body {
     margin-left: -15px;
 }
 
-.col {
+.column {
     position: relative;
     width: 100%;
     padding-right: 15px;
@@ -76,7 +76,7 @@ body {
     margin-right: 1rem !important;
 }
 
-.img-fluid {
+.img-full {
     max-width: 100%;
     height: auto;
 }
@@ -290,7 +290,7 @@ body {
         flex-direction: column;
     }
 
-    .col {
+    .column {
         width: 100%;
         padding: 0;
     }
